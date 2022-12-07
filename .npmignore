@@ -1,0 +1,5 @@
+examples
+lib
+tests
+vite*
+node_modules
